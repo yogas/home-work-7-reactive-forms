@@ -1,0 +1,11 @@
+input.ng-invalid.ng-touched {
+  border-color: red;
+}
+
+.error-note {
+  color: red;
+}
+
+input.ng-pending {
+  background-color: lightgray;
+}
